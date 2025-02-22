@@ -9,7 +9,7 @@ This project is a Django REST-based web service designed to consolidate contact 
 
 ## Loom Video Demo
 
-[Click here to watch the demo]([https://www.loom.com/embed/22c2c69247994e1893ca8fa3ab4809f4?sid=5e038894-774c-427e-baf0-1c8dfc3b053d](https://www.loom.com/share/22c2c69247994e1893ca8fa3ab4809f4?sid=9066daf0-9cad-4c6f-af7f-349afc292468))
+https://www.loom.com/share/22c2c69247994e1893ca8fa3ab4809f4?sid=9066daf0-9cad-4c6f-af7f-349afc292468
 
 ## Features
 1. **Identity Reconciliation**:
