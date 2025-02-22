@@ -7,7 +7,9 @@
 ## Overview
 This project is a Django REST-based web service designed to consolidate contact information across multiple purchases for Emotorad's integration with Zamazon.com. The service processes JSON payloads containing `email` and `phoneNumber` fields, linking orders made with different contact information to the same individual. It ensures data integrity, handles edge cases, and provides a personalized customer experience.
 
-<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/22c2c69247994e1893ca8fa3ab4809f4?sid=5e038894-774c-427e-baf0-1c8dfc3b053d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+## Loom Video Demo
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/22c2c69247994e1893ca8fa3ab4809f4-with-play.gif)](https://www.loom.com/embed/22c2c69247994e1893ca8fa3ab4809f4?sid=5e038894-774c-427e-baf0-1c8dfc3b053d)
 
 ## Features
 1. **Identity Reconciliation**:
